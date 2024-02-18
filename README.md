@@ -1,4 +1,5 @@
-Sorting Algorithms Repository
+#Sorting Algorithms Repository
+
 This repository contains implementations of three fundamental sorting algorithms: Bubble Sort, Insertion Sort, and Quick Sort. Each algorithm is implemented in Python and provides a simple and efficient way to sort arrays/lists of elements.
 
 Algorithms Implemented
